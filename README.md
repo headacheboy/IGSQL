@@ -8,7 +8,9 @@ folder `data/ data/database model/bert/data/annotated_wikisql_and_PyTorch_bert_p
 
 ### How to run
 
-use `./run_sparc.sh` or `./run_cosql.sh`.
+use `./run_sparc.sh` or `./run_cosql.sh` to train and evaluate on the best model.
+
+use `./test_sparc.sh` or `./test_cosql.sh` (change the save_file path) to evaluate the specific model.
 
 # Acknowledgement
 
